@@ -1,9 +1,9 @@
-# Nix OceanSprint 2025
+# Nix(OS) SaltSprint 2025
 <div class="bg-primary text-white rounded-lg p-8 mb-8">
   <img src="assets/group.jpeg" alt="OceanSprint Group Photo" class="w-full h-auto rounded-md mb-6">
   <div class="grid md:grid-cols-2 gap-8">
     <div>
-      <p class="text-lg mb-6">A week of Nix hacking, collaboration, and knowledge sharing in a beautiful seaside setting.</p>
+      <p class="text-lg mb-6">A week of Nix(OS) hacking, collaboration, and knowledge sharing in Halle/Salle, Germany.</p>
       
       <div class="flex space-x-4">
         <a href="https://app.formbricks.com/s/cm2ambioh0002ded5b0ymqet3" class="bg-white text-primary font-medium py-2 px-5 rounded-md hover:bg-gray-100 transition duration-200">
@@ -19,19 +19,19 @@
       <div class="space-y-6">
         <div>
           <h3 class="font-medium text-white text-opacity-70 uppercase text-sm tracking-wider mb-1">When</h3>
-          <p class="text-lg"><a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nix+OceanSprint+2025&dates=20250316/20250322&location=Lanzarote,+Canary+Islands&details=A+week+of+Nix+hacking+near+the+ocean" class="text-white hover:underline" target="_blank">16/03/2025 - 21/03/2025</a></p>
-          <p class="text-sm text-white text-opacity-70">Sunday to Friday</p>
+          <p class="text-lg"><a href="https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nix+OceanSprint+2025&dates=20250316/20250322&location=Lanzarote,+Canary+Islands&details=A+week+of+Nix+hacking+near+the+ocean" class="text-white hover:underline" target="_blank">30/06/2025 - 04/07/2025</a></p>
+          <p class="text-sm text-white text-opacity-70">Monday to Friday</p>
         </div>
         
         <div>
           <h3 class="font-medium text-white text-opacity-70 uppercase text-sm tracking-wider mb-1">Where</h3>
-          <p class="text-lg">Lanzarote, Canary Islands</p>
-          <p class="text-sm text-white text-opacity-70"><a href="https://house.niteo.co/" class="underline text-white hover:text-white">Oceanfront Villa with FTTH</a></p>
+          <p class="text-lg">Halle/Salle, Germany</p>
+          <p class="text-sm text-white text-opacity-70"><a href="http://flyingcircus.io/" class="underline text-white hover:text-white">FlyingCircus office</a></p>
         </div>
         
         <div>
           <h3 class="font-medium text-white text-opacity-70 uppercase text-sm tracking-wider mb-1">Who</h3>
-          <p class="text-lg">~30 Nix developers</p>
+          <p class="text-lg">25 Nix(OS) developers</p>
           <p class="text-sm text-white text-opacity-70">All skill levels welcome</p>
         </div>
       </div>
